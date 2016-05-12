@@ -1,5 +1,5 @@
 # Facebook Messenger (Unofficial) - Chrome Extension
-Facebook Messenger (Unofficial) through the Chrome Extension click away, without any distractions.
+Click away Facebook Messenger (Unofficial) through the Chrome Extension, without any distractions.
 
 <img src="" align="middle">
 
